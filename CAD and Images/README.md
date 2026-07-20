@@ -1,16 +1,10 @@
-# CAD
+# CAD Files
 
-This folder contains CAD models of the Pickup Truck-Mounted Crane.
+The original CAD files are hosted on Google Drive.
 
-## Contents
+## Download
 
-- Boom Assembly
-- Base Structure
-- Hook Assembly
-- Hydraulic Components
-- STEP Files
-- STL Files
+**STEP Files:**  
+[https://drive.google.com/your-link](https://drive.google.com/drive/folders/1fckRLkqqq-ohTP1qPKKHeQOn7PPZk0Iw?usp=sharing)
 
-## Software Used
 
-- SolidWorks 2026
