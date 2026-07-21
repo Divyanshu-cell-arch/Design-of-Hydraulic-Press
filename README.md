@@ -26,7 +26,7 @@ Manual handling of heavy materials poses safety risks and reduces operational ef
 
 ## CAD Design
 
-*(Insert Assembly Render)*
+
 
 Complete CAD models are available in the **CAD/** folder.
 
