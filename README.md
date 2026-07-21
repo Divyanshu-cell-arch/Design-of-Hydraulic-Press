@@ -1,4 +1,4 @@
-# Design of a 50 kN Hydraulic Press for Sheet Metal Forming
+# Design of a Hydraulic Press for Sheet Metal Forming
 
 ## Project Overview
 
