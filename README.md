@@ -1,4 +1,4 @@
-# Design of a Hydraulic Press for Sheet Metal Forming
+# Design of a Hydraulic Press
 
 ## Project Overview
 
