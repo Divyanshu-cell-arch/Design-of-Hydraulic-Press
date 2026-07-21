@@ -1,11 +1,16 @@
 # Engineering Drawings
 
-This folder contains manufacturing and assembly drawings of the Pickup Truck-Mounted Crane.
+This folder contains manufacturing and assembly drawings of the Hydraulic Press. 
 
 ## Contents
 
-- Assembly Drawings
-- Boom Drawings
-- Base Drawings
-- Hook Drawings
-- Bill of Materials
+- H-Frame
+- Plate
+- Piston
+- Lower Beam
+- Fastener
+- Contacting Plate
+- Down Piece
+- Upper Beam
+- Upper Piece
+  
